@@ -18,7 +18,7 @@ import (
 // hitmeCmd represents the hitme command
 var hitmeCmd = &cobra.Command{
 	Use:   "hitme",
-	Short: "Get a rnadom dad joke",
+	Short: "Get a random dad joke",
 	Long:  `Gets a random dad joke from https://icanhazdadjoke.com and prints it to the screen`,
 	Run: func(cmd *cobra.Command, args []string) {
 		getRandomJoke()

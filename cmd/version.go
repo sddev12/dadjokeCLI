@@ -16,7 +16,7 @@ var versionCmd = &cobra.Command{
 	Short: "Displays the dadjokeCLI version",
 	Long:  `Displays the dadjokeCLI version`,
 	Run: func(cmd *cobra.Command, args []string) {
-		fmt.Println("dadjokeCLI v1.0.0")
+		fmt.Println("dadjokeCLI v1.1")
 	},
 }
 

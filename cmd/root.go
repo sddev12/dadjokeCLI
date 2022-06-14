@@ -14,9 +14,7 @@ import (
 var rootCmd = &cobra.Command{
 	Use:   "dadjokeCLI",
 	Short: "Hits you with a random dad joke",
-	Long: `dadjokeCLI will hit you with a random dad joke
-	
-	All you need to do is run dadjokeCLI.exe hitme from the folder where dadjokeCLI.exe lives from the commandline`,
+	Long:  `dadjokeCLI: The coolest jokes in town`,
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	// Run: func(cmd *cobra.Command, args []string) { },
