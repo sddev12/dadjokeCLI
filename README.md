@@ -5,7 +5,7 @@ Hit yourself with some serious dad jokes!
 
 ## Downloads
 ---
-dadjokeCLI v1.0.0 - Windows
+[dadjokeCLI v1.0.0 - Windows](https://github.com/sddev12/dadjokeCLI/releases/tag/windows-v1.0.0)
 
 <br>
 
